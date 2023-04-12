@@ -1,0 +1,15 @@
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.csproj.AssemblyReference.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.AssemblyInfoInputs.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.AssemblyInfo.cs
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.csproj.CoreCompileInputs.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\bin\Debug\net6.0\Langhw001.exe
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\bin\Debug\net6.0\Langhw001.deps.json
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\bin\Debug\net6.0\Langhw001.runtimeconfig.json
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\bin\Debug\net6.0\Langhw001.dll
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\bin\Debug\net6.0\Langhw001.pdb
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.dll
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\refint\Langhw001.dll
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.pdb
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\Langhw001.genruntimeconfig.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Langhw001\obj\Debug\net6.0\ref\Langhw001.dll
