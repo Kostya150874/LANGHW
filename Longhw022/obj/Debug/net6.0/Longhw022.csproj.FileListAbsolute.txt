@@ -1,0 +1,15 @@
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\bin\Debug\net6.0\Longhw022.exe
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\bin\Debug\net6.0\Longhw022.deps.json
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\bin\Debug\net6.0\Longhw022.runtimeconfig.json
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\bin\Debug\net6.0\Longhw022.dll
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\bin\Debug\net6.0\Longhw022.pdb
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.csproj.AssemblyReference.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.AssemblyInfoInputs.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.AssemblyInfo.cs
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.csproj.CoreCompileInputs.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.dll
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\refint\Longhw022.dll
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.pdb
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\Longhw022.genruntimeconfig.cache
+C:\Users\1_2_3\OneDrive\Рабочий стол\LangHW\Longhw022\obj\Debug\net6.0\ref\Longhw022.dll
